@@ -1,0 +1,4 @@
+seeds/
+target/
+dbt_packages/
+logs/

@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: data
+    tables:
+      - name: stops
+      - name: smmag_line_stops
+      - name: smmag_line_clusters
+      - name: cities
+      - name: trips
